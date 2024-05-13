@@ -1,4 +1,4 @@
-# Story generation
+# Color story generation
 
 Test of story generation based on a color using an LLM (llama3) and groq API.
 
