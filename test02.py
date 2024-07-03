@@ -4,7 +4,7 @@ from groq import Groq
 
 # In terminal run:
 # pip install groq
-# export GROQ_API_KEY=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
+# export GROQ_API_KEY=gsk_****
 
 messages = [
     {
