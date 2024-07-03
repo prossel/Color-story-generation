@@ -20,8 +20,17 @@ Then give another color and continue.
 ```bash
 pip install groq
 ```
+- Get your Groq API key https://console.groq.com/keys
 
 ## Usage
+
+Export your Groq API key
+
+```bash
+export GROQ_API_KEY=gsk_****
+```
+
+Run the test
 
 ```bash
 python test02.py
