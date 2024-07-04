@@ -38,6 +38,4 @@ python test02.py
 
 ## License
 
-Information about the project's license.
-
-Sorry never know what to put here...
+See [LICENSE](LICENSE) file
