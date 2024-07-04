@@ -6,7 +6,7 @@ Give a pen color and the script will start to tell you a story that you can draw
 
 Then give another color and continue.
 
-<video controls src="media/demo.mp4" title="Demo"></video>
+https://github.com/prossel/Color-story-generation/assets/541021/89cbb7fa-6c06-40de-a734-3ce189a81205
 
 ## Table of Contents
 
