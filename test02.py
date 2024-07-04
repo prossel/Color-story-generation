@@ -2,9 +2,7 @@
 
 from groq import Groq
 
-# In terminal run:
-# pip install groq
-# export GROQ_API_KEY=gsk_****
+import secret
 
 messages = [
     {

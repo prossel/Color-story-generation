@@ -2,9 +2,7 @@
 
 from groq import Groq
 
-# In terminal run:
-# pip install groq
-# export GROQ_API_KEY=******
+import secret
 
 client = Groq()
 completion = client.chat.completions.create(
